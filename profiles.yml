@@ -20,7 +20,7 @@ default:  # your profile name from dbt_project.yml
       project: ingka-fsda-devplayground-dev  # name of the project in BigQuery
       dataset: jaffle_shop  # your dataset for production
       threads: 4
-      keyfile: secrets/dbt-service-keyfile
+      keyfile: /secrets/dbt-service-keyfile
       #keyfile: dbt-user-cred.json 
       timeout_seconds: 900
       priority: interactive
