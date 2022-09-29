@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Welcome to DBT-Setup at Financial Services
 
 ### Using the starter project
 
